@@ -6,12 +6,24 @@ body {
   font-weight: 400;
 }
 
+/* container for
+#container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+
+}
+
 /* name */
-h1 {
+.name {
   font-size: 3.5em;
   text-transform: uppercase;
   color: #33485e;
   text-align: center;
+  border-bottom: 2px solid #33485e;
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
 }
 
 /* title */
@@ -23,6 +35,18 @@ strong {
 }
 
 /* section titles (experience/skills, etc.) */
+.sectionheader {
+  color: white;
+  text-transform: uppercase;
+  background-color: #33485e;
+  color: white;
+  font-weight: 400;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 70%;
+  min-width: 300px;
+}
+
 h2 {
   color: white;
   text-transform: uppercase;
