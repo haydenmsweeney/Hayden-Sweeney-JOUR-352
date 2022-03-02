@@ -6,7 +6,24 @@ body {
   font-weight: 400;
 }
 
-/* container for
+/* paragraph elements */
+.description {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+  color: #444;
+  font-weight: 400;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* contact info */
+.menu {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+/* container for *
 #container {
   width: 100%;
   max-width: 1200px;
@@ -27,11 +44,14 @@ body {
 }
 
 /* title */
-strong {
+.title {
   color: #33485e;
   text-transform: uppercase;
   text-align: center;
   font-size: 1.5em;
+  font-weight: 600;
+  margin: 0 auto;
+  margin-top: 20px;
 }
 
 /* section titles (experience/skills, etc.) */
@@ -47,21 +67,31 @@ strong {
   min-width: 300px;
 }
 
-h2 {
-  color: white;
-  text-transform: uppercase;
-  background-color: #33485e;
-}
 
 /* job titles */
-h3 {
+.jobtitle {
   font-weight: 600;
   font-size: 2em;
 }
 
+/* organizations */
+.organization {
+  font-weight: 400;
+  font-size: 1.5em;
+}
+
 /* job dates */
-h5 {
+.date {
   font-weight: 400px;
   font-style: italic;
   font-size: 1em;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.top {
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+  bottom-margin: 30px;
 }
