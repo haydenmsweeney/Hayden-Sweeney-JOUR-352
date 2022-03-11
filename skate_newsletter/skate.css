@@ -1,0 +1,48 @@
+.container {
+  margin: 0 auto;
+}
+
+.container1 {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.row {
+  margin: 0 auto;
+
+}
+
+.button {
+align-items: center;
+margin-top: 25px;
+}
+
+.icon {
+  size: 3em;
+}
+
+.btn {
+  font-family: 'Special Elite', sans-serif;
+}
+
+h1 {
+  font-family: 'Special Elite', sans-serif;
+}
+
+.navbar-brand {
+  font-family: 'Special Elite', sans-serif;
+}
+
+.row {
+  padding: 50px;
+}
+
+@media only screen and (max-width: 500px) {
+  h2 {
+    padding: 50px;
+  }
+
+  button {
+    background-color: teal !important;
+  }
+}

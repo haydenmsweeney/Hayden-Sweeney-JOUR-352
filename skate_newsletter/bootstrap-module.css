@@ -1,0 +1,22 @@
+.container {
+  margin: 0 auto;
+}
+
+.container1 {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.row {
+  margin: 0 auto;
+
+}
+
+.button {
+align-items: center;
+margin-top: 25px;
+}
+
+.icon {
+  size: 3em;
+}
