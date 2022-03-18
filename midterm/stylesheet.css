@@ -1,0 +1,71 @@
+
+/* gives the page more white space - easier to read and more visually appealing */
+#content {
+  margin: 0 auto;
+  width: 900px;
+}
+
+/* styling for masthead */
+.header {
+  padding: 60px;
+  text-align: center;
+  color: white;
+  font-size: 22px;
+  background-color: blue;
+  font-family: georgia, sans-serif;
+}
+
+.caption {
+  color: grey;
+  font-size: 10px;
+  font-family: helvetica, arial, sans-serif;
+}
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  font-size: 12px;
+}
+
+blockquote {
+  font-size: 20px;
+  font-family: helvetica, sans-serif;
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: blue;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 16px solid black;
+}
+
+.date {
+  color: grey;
+  font-family: georgia, sans-serif;
+  font-size: 10px;
+}
+
+#byline {
+font-family: georgia, sans-serif;
+font-size: 16px;
+font-style: italic;
+}
+
+h1 {
+  font-family: georgia, sans-serif;
+}
+
+h2 {
+  font-family: arial, sans-serif;
+}
+
+a:link {
+  color: blue;
+}
+
+a:hover {
+  color: red;
+}
+
+a:visited {
+  color: purple;
+}

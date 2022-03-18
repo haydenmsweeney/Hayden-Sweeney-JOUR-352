@@ -1,0 +1,44 @@
+1. <p>
+    <a href="https://www.umd.edu/">UMD</a> has the greatest students in the world.
+   </p>
+
+2. In the head
+3. <!DOCTYPE html>
+   <html lang="en">
+    <head>
+      <title></title>
+    </head>
+    <body>
+    </body>
+    </html>
+
+4. In the body
+
+5. Using a div allows you to group sections of HTML content together and keep
+   your code more organized.
+
+6. <div id="content_row"> </div>
+   <div id="headline"> </div>
+
+7. <div id="spaghetti" class="peaches"> </div>
+
+8. p {
+   font-size: 5em;
+   background-color: #FFA500
+   }
+
+9. font-weight
+
+10. A media query is used to adjust the page to fit different screen dimensions.
+
+11. Serif font has strokes on the end of the letters, while sans serif does not.
+
+12. 213
+
+13. .midterm_rule {
+font-size:1.5em;
+font-style: italic;
+color: red;
+text-transform: uppercase
+font-weight: 400;
+}
