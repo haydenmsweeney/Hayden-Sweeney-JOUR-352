@@ -1,0 +1,64 @@
+body {
+  background-color: #57ad86;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+a:visited {
+  color: grey;
+}
+
+p {
+  font-family: helvetica, sans-serif;
+}
+
+.container {
+  text-align: left;
+  color: white;
+}
+
+.navbar-brand {
+  background-color: #57ad86;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  color: white;
+  text-align: center;
+  font-weight: 600;
+}
+
+h2 {
+  font-family: helvetica, sans-serif;
+  text-transform: uppercase;
+  color: white;
+  font-size: 20px;
+}
+
+h3 {
+  font-family: helvetica, sans-serif;
+  text-transform: uppercase;
+  color: white;
+  font-size: 15px;
+}
+
+h4 {
+  font-family: helvetica, sans-serif;
+  text-transform: uppercase;
+  color: white;
+  font-size: 13px;
+  font-style: italic;
+}
+
+footer {
+  background-color:grey;
+  color:white;
+  font-family:helvetica, sans-serif;
+  text-align:center;
+}
