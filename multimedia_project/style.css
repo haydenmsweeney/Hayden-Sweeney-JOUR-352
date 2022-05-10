@@ -2,9 +2,10 @@
 #content {
   margin: 0 auto;
   max-width: 900px;
+  width: 90%;
 }
 
-.header {
+.pagetopper {
   padding: 60px;
   text-align: center;
   color: white;
@@ -25,7 +26,7 @@ body {
 }
 
 blockquote {
-  font-size: 20px;
+  font-size: 24px;
   font-family: helvetica, sans-serif;
   font-style: italic;
   margin-top: 15px;
@@ -60,4 +61,8 @@ h2 {
   color: grey;
   font-size: 11px;
   font-family: helvetica, arial, sans-serif;
+}
+
+img {
+  align: center;
 }
